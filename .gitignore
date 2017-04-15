@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+/docker/share_by_container/android-sdk/*
+!/docker/share_by_container/android-sdk/.gitkeep
+/docker/share_by_container/dot_gradle/*
+!/docker/share_by_container/dot_gradle/.gitkeep
